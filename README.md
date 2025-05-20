@@ -17,14 +17,13 @@ Joplin:🔗 https://github.com/laurent22/joplin
 Seven Second Subnetting:🔗 https://www.youtube.com/watch?v=ZxAwQB8TZsM
 
 # Setting up our Lab
-VMware: 
-🔗https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+VMware:🔗 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
 VirtualBox:🔗 https://www.virtualbox.org/wiki/Downloads
 
 Kali Download:🔗 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
-Official Offensive Security kali 2019.3 release: 🔗http://old.kali.org/kali-images/kali-2019.3/
+Official Offensive Security kali 2019.3 release:🔗 http://old.kali.org/kali-images/kali-2019.3/
 
 Other Offical kali 2019 Releases:🔗 https://cdimage.kali.org/
 
