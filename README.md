@@ -27,6 +27,6 @@ Official Offensive Security kali 2019.3 release: http://old.kali.org/kali-images
 
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
 
-# 🔐 Vulnerable Lab Machines
-🔗 https://www.vulnhub.com/entry/kioptrix-level-1-1,22
+# Vulnerable Lab Machines
+https://www.vulnhub.com/entry/kioptrix-level-1-1,22
 https://sourceforge.net/projects/metasploitable/
