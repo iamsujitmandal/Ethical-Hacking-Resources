@@ -1,5 +1,5 @@
 # Ethical-Hacking-Resources
-Collection of useful cybersecurity tools, software, and resources.
+Note Keeping
 KeepNote: http://keepnote.org/
 
 CherryTree: https://www.giuspen.com/cherrytree/
