@@ -26,3 +26,7 @@ Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbo
 Official Offensive Security kali 2019.3 release: http://old.kali.org/kali-images/kali-2019.3/
 
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
+
+# 🔐 Vulnerable Lab Machines
+🔗 https://www.vulnhub.com/entry/kioptrix-level-1-1,22
+https://sourceforge.net/projects/metasploitable/
