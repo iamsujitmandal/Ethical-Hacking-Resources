@@ -17,7 +17,8 @@ Joplin: https://github.com/laurent22/joplin
 Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
 
 # Setting up our Lab
-VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+VMware: 
+🔗https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
 VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
